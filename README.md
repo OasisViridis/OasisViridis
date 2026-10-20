@@ -20,7 +20,7 @@
 |:--|:--|
 | **Agent 工作流** | [TheMasterplan](https://github.com/OasisViridis/TheMasterplan) — 单一交付责任人 + GitHub/Jujutsu 的轻量交付治理协议 |
 | **Agent 交互** | [Pioneer](https://github.com/OasisViridis/Pioneer) — 模块化 AI Agent 交互系统 |
-| **本地优先工具** | [IdlerDream](https://github.com/OasisViridis/IdlerDream) — 监控本地项目与 Agent 进程的 Windows 仪表盘 |
+| **人格蒸馏** | [dsh-persona-hazel](https://github.com/OasisViridis/dsh-persona-hazel) — 把灰泽满的人格数据蒸馏成 DSH 插件，全局注入所有会话 |
 | **桌面与界面** | [Supersonic](https://github.com/OasisViridis/Supersonic) — 智能座舱四屏协同 HMI（React + FastAPI + WebSocket） |
 
 <br>
@@ -77,7 +77,7 @@
 
 <a href="https://github.com/OasisViridis/TheMasterplan"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=OasisViridis&repo=TheMasterplan&theme=tokyonight&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=OasisViridis&repo=TheMasterplan&theme=graywhite&hide_border=true"><img width="46%" alt="TheMasterplan" src="https://github-readme-stats.vercel.app/api/pin/?username=OasisViridis&repo=TheMasterplan&theme=tokyonight&hide_border=true"></picture></a>
 <a href="https://github.com/OasisViridis/Pioneer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=OasisViridis&repo=Pioneer&theme=tokyonight&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=OasisViridis&repo=Pioneer&theme=graywhite&hide_border=true"><img width="46%" alt="Pioneer" src="https://github-readme-stats.vercel.app/api/pin/?username=OasisViridis&repo=Pioneer&theme=tokyonight&hide_border=true"></picture></a>
-<a href="https://github.com/OasisViridis/IdlerDream"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=OasisViridis&repo=IdlerDream&theme=tokyonight&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=OasisViridis&repo=IdlerDream&theme=graywhite&hide_border=true"><img width="46%" alt="IdlerDream" src="https://github-readme-stats.vercel.app/api/pin/?username=OasisViridis&repo=IdlerDream&theme=tokyonight&hide_border=true"></picture></a>
+<a href="https://github.com/OasisViridis/dsh-persona-hazel"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=OasisViridis&repo=dsh-persona-hazel&theme=tokyonight&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=OasisViridis&repo=dsh-persona-hazel&theme=graywhite&hide_border=true"><img width="46%" alt="dsh-persona-hazel" src="https://github-readme-stats.vercel.app/api/pin/?username=OasisViridis&repo=dsh-persona-hazel&theme=tokyonight&hide_border=true"></picture></a>
 <a href="https://github.com/OasisViridis/Supersonic"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=OasisViridis&repo=Supersonic&theme=tokyonight&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=OasisViridis&repo=Supersonic&theme=graywhite&hide_border=true"><img width="46%" alt="Supersonic" src="https://github-readme-stats.vercel.app/api/pin/?username=OasisViridis&repo=Supersonic&theme=tokyonight&hide_border=true"></picture></a>
 
 </div>
