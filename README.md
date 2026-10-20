@@ -54,9 +54,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=OasisViridis&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=OasisViridis&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&include_all_commits=true&count_private=true">
-  <img height="165" alt="stats" src="https://github-readme-stats.vercel.app/api?username=OasisViridis&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true&count_private=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=OasisViridis&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=OasisViridis&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&count_private=true">
+  <img height="165" alt="stats" src="https://github-readme-stats.vercel.app/api?username=OasisViridis&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OasisViridis&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide_title=true">
