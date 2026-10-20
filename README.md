@@ -14,8 +14,8 @@
 
 我是 Yifan，主要在做 **AI Agent 工具链** 和 **本地优先的开发者工具**。
 
-日常是 Python 写后端与脚本、TypeScript 写前端与插件，顺手用 PowerShell 把 Windows 上的零碎活儿自动化掉。
-比起让 AI 更聪明，我更关心**怎么让 AI 在真实工作流里少出错、可追溯、能兜底**。
+平时用 Python 写后端和脚本，用 TypeScript 写前端和插件，顺手拿 PowerShell 把 Windows 上的零碎活儿自动化掉。
+比起让 AI 更聪明，我更关心它在真实工作流里少出错、可追溯、能兜底。
 
 <br>
 
