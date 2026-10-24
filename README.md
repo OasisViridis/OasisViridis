@@ -8,9 +8,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,55:164B34,100:247B54&amp;height=215&amp;section=header&amp;text=OASISVIRIDIS&amp;fontSize=46&amp;fontColor=F0FFF4&amp;fontAlignY=37&amp;desc=Yifan%20Liang%20-%20AI%20Agent%20Tooling&amp;descSize=16&amp;descAlignY=60" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F6FFF8,55:D9F6E4,100:9CDBB5&amp;height=215&amp;section=header&amp;text=OASISVIRIDIS&amp;fontSize=46&amp;fontColor=174D32&amp;fontAlignY=37&amp;desc=Yifan%20Liang%20-%20AI%20Agent%20Tooling&amp;descSize=16&amp;descAlignY=60" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F6FFF8,55:D9F6E4,100:9CDBB5&amp;height=215&amp;section=header&amp;text=OASISVIRIDIS&amp;fontSize=46&amp;fontColor=174D32&amp;fontAlignY=37&amp;desc=Yifan%20Liang%20-%20AI%20Agent%20Tooling&amp;descSize=16&amp;descAlignY=60" width="100%" alt="OasisViridis — Yifan Liang, AI Agent Tooling" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117%2C55:164B34%2C100:247B54&amp;height=215&amp;section=header&amp;text=OASISVIRIDIS&amp;fontSize=46&amp;fontColor=F0FFF4&amp;fontAlignY=37&amp;desc=Yifan%20Liang%20-%20AI%20Agent%20Tooling&amp;descSize=16&amp;descAlignY=60" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F6FFF8%2C55:D9F6E4%2C100:9CDBB5&amp;height=215&amp;section=header&amp;text=OASISVIRIDIS&amp;fontSize=46&amp;fontColor=174D32&amp;fontAlignY=37&amp;desc=Yifan%20Liang%20-%20AI%20Agent%20Tooling&amp;descSize=16&amp;descAlignY=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F6FFF8%2C55:D9F6E4%2C100:9CDBB5&amp;height=215&amp;section=header&amp;text=OASISVIRIDIS&amp;fontSize=46&amp;fontColor=174D32&amp;fontAlignY=37&amp;desc=Yifan%20Liang%20-%20AI%20Agent%20Tooling&amp;descSize=16&amp;descAlignY=60" width="100%" alt="OasisViridis — Yifan Liang, AI Agent Tooling" />
   </picture>
 </div>
 
