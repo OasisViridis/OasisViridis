@@ -14,7 +14,7 @@
   </picture>
 </div>
 
-<h2 align="center">做 AI Agent 的工具，也做它工作时的界面。</h2>
+<h2 align="center">Harness Engineering</h2>
 <p align="center"><em>Tools for AI agents, and the interfaces they work in.</em></p>
 
 <p align="center">
